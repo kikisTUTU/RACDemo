@@ -1,0 +1,6 @@
+framework module Cocoa_Charts {
+  umbrella header "Cocoa-Charts-umbrella.h"
+
+  export *
+  module * { export * }
+}

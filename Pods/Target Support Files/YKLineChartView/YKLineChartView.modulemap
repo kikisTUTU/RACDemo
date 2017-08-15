@@ -1,0 +1,6 @@
+framework module YKLineChartView {
+  umbrella header "YKLineChartView-umbrella.h"
+
+  export *
+  module * { export * }
+}
